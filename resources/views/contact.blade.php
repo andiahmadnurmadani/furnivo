@@ -21,7 +21,7 @@
     </div>
   </div>
 
-  <div class="bg-white text-gray-800">
+  <div class="bg-white text-gray-800 mb-[-350px]">
 
   <div class="max-w-6xl my-10 mx-auto px-6 py-16">
     <h2 class="text-3xl font-bold text-center mb-2">Get In Touch With Us</h2>
@@ -89,6 +89,7 @@
   </div>
 
 </div>
+<x-footer></x-footer>
 </body>
 
 </html>
